@@ -7,7 +7,6 @@
 
 header {
     margin: 44px 0 144px 76px;
-
 }
 
 .link-header {
@@ -17,7 +16,6 @@ header {
     color: #989D9C;
     cursor: pointer;
     margin-right: 23px;
-
 }
 
 .button-header {
@@ -31,7 +29,6 @@ header {
     line-height: 29px;
     color: #FFFFFF;
     cursor: pointer;
-
 }
 
 .logo-image {
@@ -39,7 +36,6 @@ header {
     height: 500px;
     margin-left: 125px;
     display: inline-block;
-
 }
 
 section {
